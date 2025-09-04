@@ -6,13 +6,16 @@ The name similarity is calculated using Jaccard Index.
 (this project is made for educational purposes, so it currently may not be well suitable for real life use yet)
 
 
-before :
+before : 
+
 ![original](images/prev.png)
 
-process:
+process: 
+
 ![process](images/process.png)
 
-after :
+after : 
+
 ![result](images/result.png)
 
 build and run:
