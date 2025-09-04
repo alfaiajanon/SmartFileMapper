@@ -6,8 +6,8 @@
 #include "Statistics/Clusterer.h"
 #include "CustomDS/CustomDS.h"
 #include "Logger/Log.c"
-#include "TUI-FancyTerminal/Renderer/FancyTerminal.h"
-#include "TUI-FancyTerminal/Keyboard/keyboard.h"
+#include "FancyTerminal/Renderer/FancyTerminal.h"
+#include "FancyTerminal/Keyboard/keyboard.h"
 
 
 char *path = "";

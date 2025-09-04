@@ -8,8 +8,8 @@ add_executable(
     ../main.c 
     ../Statistics/Clusterer.c
     ../CustomDS/ArrayList.c
-    ../TUI-FancyTerminal/Renderer/FancyTerminal.c
-    ../TUI-FancyTerminal/Keyboard/keyboard.c
+    ../FancyTerminal/Renderer/FancyTerminal.c
+    ../FancyTerminal/Keyboard/keyboard.c
 ) 
 
     
