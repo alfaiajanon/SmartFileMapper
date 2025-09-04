@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# count header files as C source files
+*.h linguist-language=C
